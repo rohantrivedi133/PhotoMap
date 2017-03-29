@@ -1,5 +1,5 @@
 ## Starter Project for Photo Map Exercise (Swift)
-![Image](http://imgur.com/a/MLRZw.gif)
+![Image](http://imgur.com/6NnfbuC.gif)
 
 - Connects with Foursquare API
 - Implements `LocationsViewController`
